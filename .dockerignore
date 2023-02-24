@@ -1,0 +1,8 @@
+*
+
+!deps.edn
+!Makefile
+!src/
+!test/
+!test-data/
+!resources/
